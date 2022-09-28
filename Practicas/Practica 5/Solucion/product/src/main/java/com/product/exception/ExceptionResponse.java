@@ -8,7 +8,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 
 public class ExceptionResponse {
 
-	@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-DD hh-mm-ss")
+	@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-DD hh:mm:ss")
 	private LocalDateTime timestamp;
 	private Integer status;
 	private HttpStatus error;
