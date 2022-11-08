@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Jose\Desktop\Desk\Semestre\Seminario-A\Practicas\Practica 6.2\product"/>
+			<item value="C:\Users\Jose\Desktop\Desk\Semestre\Seminario-A\Practicas\Practica 6\product"/>
+			<item value="C:\Users\Jose\Desktop\Desk\Semestre\Seminario-A\Practicas\Practica 6\Solucion\product"/>
 			<item value="C:\Users\Jose\Desktop\Desk\Semestre\Seminario-A\Practicas\Practica 6\Solucion"/>
 		</list>
 		<list key="projectNameTemplate">
